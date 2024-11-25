@@ -11,6 +11,7 @@ gamerule logAdminCommands true
 gamerule commandBlockOutput true
 gamerule spectatorsGenerateChunks true
 gamerule playersSleepingPercentage 100
+gamerule keepInventory false
 
 # Clear Schedules
 schedule clear deathswap:swap/calcswap

@@ -11,6 +11,7 @@ gamerule logAdminCommands false
 gamerule commandBlockOutput false
 gamerule spectatorsGenerateChunks false
 gamerule playersSleepingPercentage 1
+gamerule keepInventory true
 
 # Teams
 team add be_nice
