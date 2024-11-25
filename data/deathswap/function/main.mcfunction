@@ -1,0 +1,1 @@
+execute as @a[scores={deaths=1..},tag=!out] run function deathswap:out
