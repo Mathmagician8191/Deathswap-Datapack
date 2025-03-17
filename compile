@@ -1,0 +1,3 @@
+export MAX_PLAYERS=12
+python swap_compile.py
+zip -r DeathswapDatapack.zip -9 -X -q -@ < manifest
